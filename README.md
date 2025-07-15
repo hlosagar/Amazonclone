@@ -1,2 +1,3 @@
 # Amazonclone
-This is my first  web clone project.
+This is my first Git project.
+Auther - Sagar yadav
