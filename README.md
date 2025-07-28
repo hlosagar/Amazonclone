@@ -1,4 +1,5 @@
 # Amazonclone
-This is my first Git project.
+This is my clone project.
+
 <br>
 Auther - Sagar yadav
