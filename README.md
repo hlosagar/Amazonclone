@@ -5,7 +5,7 @@ Welcome to the web clone repository inspired by Amazon
 <br>
 * Developed a reponsive e-commerce homepage inspired by Amazon.
 * Integrated product grip, navigation bar, and search interface using clean HTML/CSS layout.
-* Applied front-end best practices to ensre visual consistency.
+* Applied front-end best practices to ensre visual consistency. 
  <br>
 Auther - Sagar yadav
 
